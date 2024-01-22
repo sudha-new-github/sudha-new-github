@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...ML
 - 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ...ML
-- 📫 How to reach me ...sudha.worklife@gmail.com
+- 📫 How to reach me ...sudha.gatala@gmail.com
 
 <!---
 sudha-new-github/sudha-new-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
